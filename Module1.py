@@ -40,3 +40,18 @@
 
 # Output:
 # <class 'complex'
+
+
+
+#String Datatype
+# name = "Rahul"
+# course = "Python"
+# message = "Welcome to Python class"
+# print(name)
+# print(course)
+# print(message)
+
+# Output:
+# Rahul
+# Python
+# Welcome to Python class
