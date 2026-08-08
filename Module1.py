@@ -80,3 +80,23 @@
 # #Output:
 # None
 # <class 'NoneType'>
+
+
+
+#isistance()Function
+# x = 10
+# print(isinstance(x,int))
+# print(isinstance(x,str))
+
+# Output:
+# True
+# False
+
+
+# Input() Function
+# name = input("Enter your name:")
+# print("Your name is" , name)
+
+# Output:
+# Enter your name:sharvari
+# Your name is sharvari
