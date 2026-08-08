@@ -55,3 +55,28 @@
 # Rahul
 # Python
 # Welcome to Python class
+
+
+#Boolean Data Type
+# is_pass = True
+# is_failed = False
+# print(type(is_pass))
+
+# Output:
+# <class 'bool'>
+
+#Boolean values are mostly used in conditions and comparisons
+# Example:
+# age = 20
+# print(age>=18)
+# Output: True
+
+
+#NoneType
+# result = None
+# print(result)
+# print(type(result))
+
+# #Output:
+# None
+# <class 'NoneType'>
