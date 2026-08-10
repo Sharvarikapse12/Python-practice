@@ -240,3 +240,66 @@
 
 # Output:
 # 30
+
+
+
+#Solved Practice Programs
+
+#Add Two Numbers
+# a = int(input("Enter first number:"))
+# b = int(input("Enter second number:"))
+# sum_value = a + b
+# print("Sum:" , sum_value)
+
+#Output:
+# Enter first number:10
+# Enter second number:20
+# Sum:30
+
+
+#Calculate Area Of Rectangle
+# length = float(input("Enter length:"))
+# breadth = float(input("Enter breadth:"))
+# area = length * breadth
+# print("Area of rectangle:" , area)
+
+# Output:
+# Enter length:10
+# Enter breadth:20.5
+# Area of rectangle:205.0
+
+
+#Swap Two Numbers
+# a = 10
+# b = 20
+# a,b = b,a
+# print("a:" ,a)
+# print("b:" , b)
+
+# Output:
+# a: 20
+# b: 10
+
+
+#Calculate Simple Interest
+# principal = float(input("Enter principal amount:"))
+# rate = float(input("Enter rate:"))
+# time = float(input("Enter time:"))
+# simple_interest = (principal * rate * time) / 100
+# print("Simple Interest:" , simple_interest)
+
+# Output:
+# Enter principal:2500
+# Enter rate:40
+# Enter time:60
+# Simple Interest:60000.0
+
+
+#Check Type User Input
+# value = input("Enter any value:")
+# print("Value:" , value)
+# print("Type:" , type(value))
+
+# Output:
+# Value:20
+# Type: <class 'str'>
