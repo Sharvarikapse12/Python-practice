@@ -324,3 +324,14 @@
 # sharvari
 # 20
 # Nagpur
+
+
+#2 To add two numbers by users
+# a = int(input("Enter first number:"))
+# b = int(input("Enter second number:"))
+# print(a + b)
+
+# Output:
+# Enter first number:20
+# Enter second number:30
+# 50
