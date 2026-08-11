@@ -355,3 +355,12 @@
 # Output:
 # Enter radius:5
 # Area of circle: 78.5
+
+
+#5 To convert temp from celcius to fahrenheit
+# celcius = 30
+# fahrenheit = (celcius * 9 / 5) +32
+# print("Conversion of celcius into Fahrenheit:" , fahrenheit)
+
+# Output:
+# Conversion of celcius into Fahrenheit: 86.0
