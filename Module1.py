@@ -303,3 +303,24 @@
 # Output:
 # Value:20
 # Type: <class 'str'>
+
+
+
+
+#Practice Problems
+
+#1 To print name age and city
+# name = input("Enter your name:")
+# age = input("Enter your age:")
+# city = input("Enter your city:")
+# print(name)
+# print(age)
+# print(city)
+
+# Output:
+# Enter your name:sharvari
+# Enter your age:20
+# Enter your city:Nagpur
+# sharvari
+# 20
+# Nagpur
