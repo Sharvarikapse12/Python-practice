@@ -335,3 +335,13 @@
 # Enter first number:20
 # Enter second number:30
 # 50
+
+
+#3 To calculate percentage of student
+# total = 500
+# marks = 400
+# percentage = (marks / total) * 100
+# print("Percentage of student:" , percentage)
+
+# Output:
+# Percentage of student: 80.0
