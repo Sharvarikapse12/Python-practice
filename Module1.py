@@ -401,3 +401,20 @@
 # Enter your name:sharvari
 # Enter your marks:90
 # My name is sharvari and my marks is 90
+
+
+#9 To check type of different variables
+# name = "sharvari"
+# age = 20
+# is_pass = True
+# result = None
+# # print(type(name))
+# print(type(age))
+# print(type(is_pass))
+# print(type(result))
+
+# Output:
+# <class 'str'>
+# <class 'int'>
+# <class 'bool'>
+# <class 'NoneType'>
