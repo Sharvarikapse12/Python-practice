@@ -390,3 +390,14 @@
 # Enter rate amount:40
 # Enter time:60
 # Simple interest: 600000.0
+
+
+#8 To take name and marks as input and print using f-string
+# name = input("Enter your name:")
+# marks = int(input("Enter your marks:"))
+# print(f"My name is {name} and my marks is {marks}")
+
+# Output:
+# Enter your name:sharvari
+# Enter your marks:90
+# My name is sharvari and my marks is 90
