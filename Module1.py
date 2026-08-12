@@ -376,3 +376,17 @@
 # Output:
 # a: 20
 # b: 10
+
+
+#7 To calculate simple interest
+# principal = float(input("Enter principal amount:"))
+# rate = float(input("Enter rate amount:"))
+# time = float(input("Enter time:"))
+# simple_interest = (principal*rate*time)/100
+# print("Simple interest:" , simple_interest)
+
+# Output:
+# Enter principal amount:25000
+# Enter rate amount:40
+# Enter time:60
+# Simple interest: 600000.0
