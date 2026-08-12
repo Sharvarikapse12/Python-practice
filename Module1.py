@@ -418,3 +418,14 @@
 # <class 'int'>
 # <class 'bool'>
 # <class 'NoneType'>
+
+
+#10 to show differce between / and //
+# a = 25
+# b = 10
+# print(a / b)
+# print(a // b)
+
+# Output:
+# 2.5  # with /
+# 2    # with //
