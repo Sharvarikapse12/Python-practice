@@ -39,3 +39,22 @@
 # True
 # True
 # False
+
+
+
+#Indentation in Conditional Statement
+
+#Correct indentation
+# age = 18
+# if age >= 18:
+#     print("Eligible for vote")
+
+# Output: Eligible for vote
+
+#Wrong indentation
+# age = 18
+# if age>=18:
+# print("Eligible for vote")
+
+# Output:
+# It gives IndentationError
