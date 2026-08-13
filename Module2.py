@@ -26,3 +26,16 @@
 # False
 # False
 # True
+
+
+#2 Logical Operator
+# age = 20
+# marks = 75
+# print(age >= 18 and marks >= 60)
+# print(age >= 18 or marks >= 90)
+# print(not(age >= 18))
+
+# Output:
+# True
+# True
+# False
