@@ -1,0 +1,10 @@
+
+#Conditional Statements
+# marks = 45
+# if marks>=40:
+#     print("Pass")
+# else:
+#     print("Fail")
+
+# Output:
+# Pass
