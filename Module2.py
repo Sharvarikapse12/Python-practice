@@ -74,3 +74,23 @@
 
 # Output:
 # You are eligible to vote
+
+
+
+#if-else statement
+
+#syntax
+# if condition:
+#     statements
+# else:
+#     statements
+
+#Example
+# num = 8
+# if num % 2 == 0:
+#     print("Even number")
+# else:
+#     print("Odd number")
+
+# Output:
+# Even number
