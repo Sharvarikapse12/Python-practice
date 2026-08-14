@@ -94,3 +94,33 @@
 
 # Output:
 # Even number
+
+
+
+#if-elif-else statement
+
+#syntax
+# if condition1:
+#     statements
+# elif condition2:
+#     statements
+# elif condition3:
+#     statements
+# else:
+#     statements
+
+#Example
+# marks = 82
+# if marks >= 90:
+#     print("Grade A")
+# elif marks >= 75:
+#     print("Grade B")
+# elif marks >= 60:
+#     print("Grade C")
+# elif marks >= 40:
+#     print("Grade D")
+# else:
+#     print("Fail")
+
+# Output:
+# Grade B
