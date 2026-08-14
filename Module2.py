@@ -124,3 +124,30 @@
 
 # Output:
 # Grade B
+
+
+
+#Nested if statement
+
+#syntax
+# if condition1:
+#     if condition2:
+#         statements
+#     else:
+#         statements
+# else:
+#     statements
+
+#Example
+# age = 20
+# has_voter_id = True
+# if age >= 18:
+#     if has_voter_id:
+#         print("You can vote")
+#     else:
+#         print("You need voter ID")
+# else:
+#     print("You are not eligible to vote")
+
+# Output:
+# You can vote
