@@ -189,3 +189,14 @@
 
 # output:
 # Eligible for interview
+
+
+#2 or operator
+# day = "Sunday"
+# if day == "Saturday" or day == "Sunday":
+#     print("Weekend")
+# else:
+#     print("Working day")
+
+# output:
+# Weekend
