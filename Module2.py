@@ -174,3 +174,18 @@
 
 # Output:
 # Odd
+
+
+
+#Using logical operator in conditions
+
+#1 and operator
+# age = 22
+# marks = 70
+# if age >= 18 and marks >= 60:
+#     print("Eligible for interview")
+# else:
+#     print("Not eligible")
+
+# output:
+# Eligible for interview
