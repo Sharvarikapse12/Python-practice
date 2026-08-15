@@ -160,3 +160,17 @@
 # if age >= 18 : print("Eligible")
 # Output:
 # Eligible
+
+
+#Short-hand if-else / Ternary operator
+
+#syntax
+# value_if_true if condition else value_if_false
+
+#Example
+# num = 7
+# result = "Even" if num % 2 == 0 else "Odd"
+# print(result)
+
+# Output:
+# Odd
