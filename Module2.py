@@ -151,3 +151,12 @@
 
 # Output:
 # You can vote
+
+
+
+#Short-hand if
+#Example
+# age = 20
+# if age >= 18 : print("Eligible")
+# Output:
+# Eligible
