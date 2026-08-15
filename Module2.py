@@ -200,3 +200,14 @@
 
 # output:
 # Weekend
+
+
+#3 not operator
+# is_raining = False
+# if not is_raining:
+#     print("You can go outside")
+# else:
+#     print("Take an umbrella")
+
+# output:
+# You can go outside
