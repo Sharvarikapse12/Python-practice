@@ -226,3 +226,18 @@
 
 # output:
 # b is greater
+
+
+#2 Greatest of three number
+# a = 10
+# b = 25
+# c = 15
+# if a >= b and a >= c:
+#     print("a is greater")
+# elif b >= a and b >= c:
+#     print("b is greater")
+# else:
+#     print("c is greater")
+
+# output:
+# b is greater
