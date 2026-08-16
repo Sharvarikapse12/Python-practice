@@ -241,3 +241,22 @@
 
 # output:
 # b is greater
+
+
+#3 Simple calculator
+# a = 10 
+# b = 5
+# operator = "+"
+# if operator == "+":
+#     print(a + b)
+# elif operator == "-":
+#     print(a - b)
+# elif operator == "*":
+#     print(a * b)
+# elif operator == "/":
+#     print(a / b)
+# else:
+#     print("Invalid operator")
+
+# output:
+# 15
