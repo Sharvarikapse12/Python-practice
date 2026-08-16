@@ -211,3 +211,18 @@
 
 # output:
 # You can go outside
+
+
+
+#Real-life programs using conditional statements
+
+#1 Greatest of two number
+# a = 25
+# b = 40
+# if a > b:
+#     print("a is greater")
+# else:
+#     print("b is greater")
+
+# output:
+# b is greater
