@@ -314,3 +314,15 @@
 
 # output:
 # Divisible by both 5 and 11
+
+
+#8 Basic login sysyem
+# username = "Sharvari"
+# password = "sharu123"
+# if username == "Sharvari" and password == "sharu123":
+#     print("Login successful")
+# else:
+#     print("Invalid username password")
+
+# output:
+# Login successful
