@@ -277,3 +277,18 @@
 # output:
 # Discount: 600.0
 # Final Amount: 5400.0
+
+
+#5 Traffic signal
+# signal = "red"
+# if signal == "red":
+#     print("Stop")
+# elif signal == "yellow":
+#     print("Get ready")
+# elif signal == "green":
+#     print("Go")
+# else:
+#     print("Invalid signal")
+
+# output:
+# Stop
