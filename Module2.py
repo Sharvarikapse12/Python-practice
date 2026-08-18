@@ -377,3 +377,18 @@
 
 # output:
 # a is greater
+
+
+#5 Find greatest of three number
+# a = 24
+# b = 30
+# c = 15
+# if a >= b and a >= c:
+#     print("a is greater")
+# elif b >= a and b >= c:
+#     print("b is greater")
+# else:
+#     print("c is greater")
+
+# output:
+# b is greater
