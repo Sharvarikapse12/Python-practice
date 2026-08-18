@@ -414,3 +414,22 @@
 
 # output:
 # Number is divisible by both 5 and 11
+
+
+#8 create a marks grading system
+# marks = 85
+# if marks >= 90 and marks < 100:
+#     print("A+ grade")
+# elif marks >= 80:
+#     print("A grade")
+# elif marks >= 70:
+#     print("B grade")
+# elif marks >= 60:
+#     print("C grade")
+# elif marks >= 50:
+#     print("D grade")
+# else:
+#     print("Fail")
+
+# output:
+# A grade
