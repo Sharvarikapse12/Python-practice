@@ -392,3 +392,14 @@
 
 # output:
 # b is greater
+
+
+#6 Check whether a number is divisible by 3
+# num = 24
+# if num % 3 == 0:
+#     print("Number is divisible by 3")
+# else:
+#     print("Not divisible by 3")
+
+# output:
+# Number is divisible by 3
