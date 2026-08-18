@@ -326,3 +326,18 @@
 
 # output:
 # Login successful
+
+
+
+
+#Practice Program
+
+#1 check whether the num is even or odd
+# num = 10
+# if num % 2 == 0:
+#     print("Number is even")
+# else:
+#     print("Number is odd")
+
+# output:
+# Number is even
