@@ -451,3 +451,17 @@
 #     print("Invalid operator")
 
 # output: 200
+
+
+#10 Create a traffic signal
+# signal = "Green"
+# if signal == "Red":
+#     print("Stop")
+# elif signal == "Yellow":
+#     print("Ready")
+# elif signal == "Green":
+#     print("Go")
+# else:
+#     print("Invalid signal")
+
+# output: Go
