@@ -403,3 +403,14 @@
 
 # output:
 # Number is divisible by 3
+
+
+#7 check whether number is divisible by both 5 and 11
+# num = 55
+# if num % 5 == 0 and num % 11 == 0:
+#     print("Number divisible by both 5 and 11")
+# else:
+#     print("Not divisible by both")
+
+# output:
+# Number is divisible by both 5 and 11
