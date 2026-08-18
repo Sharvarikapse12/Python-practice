@@ -365,3 +365,15 @@
 
 # output:
 # Eligible to vote
+
+
+#4 Find the greatest of two
+# a = 20
+# b = 15
+# if a > b:
+#     print("a is greater")
+# else:
+#     print("b is greater")
+
+# output:
+# a is greater
