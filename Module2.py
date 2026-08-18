@@ -341,3 +341,16 @@
 
 # output:
 # Number is even
+
+
+#2 check whether num is positive , negative or zero
+# num = 0
+# if num > 0:
+#     print("Number is positive")
+# elif num < 0:
+#     print("Number is negative")
+# else:
+#     print("Number is zero")
+
+# output:
+# Number is zero
