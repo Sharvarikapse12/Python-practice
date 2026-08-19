@@ -561,3 +561,16 @@
 
 # output:
 # Even number
+
+
+#19 check num is positive negative or zero
+# num = 20 
+# if num > 0 :
+#     print("Positive")
+# elif num < 0 :
+#     print("Negative")
+# else:
+#     print("Zero")
+
+# output:
+# Positive
