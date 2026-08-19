@@ -488,3 +488,19 @@
 
 # output:
 # Login successfully
+
+
+#13 Create discount calculator
+# amount = 6000
+# if amount >= 5000:
+#     discount = amount * 0.10
+# else:
+#     discount = amount * 0.05
+
+# final_amount = amount - discount
+# print("Discount:" , discount)
+# print("Final amount:" , final_amount)
+
+# output:
+# Discount: 600.0
+# Final amount: 5400.0
