@@ -574,3 +574,15 @@
 
 # output:
 # Positive
+
+
+#20 to find smallest of two number
+# a = 20
+# b = 15
+# if a < b:
+#     print("a is smaller")
+# else:
+#     print("b is smaller")
+
+# output:
+# b is smaller
