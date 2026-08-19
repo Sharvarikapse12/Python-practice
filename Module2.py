@@ -550,3 +550,14 @@
 #     print("Fail")
 
 # output: Pass
+
+
+#18 check num is even or odd
+# num = 8 
+# if num % 2 == 0:
+#     print("Even number")
+# else:
+#     print("Odd number")
+
+# output:
+# Even number
