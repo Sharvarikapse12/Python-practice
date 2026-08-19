@@ -529,3 +529,14 @@
 
 # output:
 # Electricity bill = 1700
+
+
+#16 check whether num greater than 100 or not
+# num = 200
+# if num > 100:
+#     print("Number greater than 100")
+# else:
+#     print("Not greater than 100")
+
+# output:
+# Number greater than 100
