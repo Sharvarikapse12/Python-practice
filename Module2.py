@@ -476,3 +476,15 @@
 
 # output:
 # Leap year
+
+
+#12 Create simple login system
+# username = "Sharvari"
+# password = "Sharu@123"
+# if(username == "Sharvari" and password == "Sharu@123"):
+#     print("Login successfully")
+# else:
+#     print("Try again")
+
+# output:
+# Login successfully
