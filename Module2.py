@@ -540,3 +540,13 @@
 
 # output:
 # Number greater than 100
+
+
+#17 check whether marks are pass or fail
+# marks = 80
+# if marks >= 40:
+#     print("Pass")
+# else:
+#     print("Fail")
+
+# output: Pass
