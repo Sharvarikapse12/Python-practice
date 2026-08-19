@@ -504,3 +504,13 @@
 # output:
 # Discount: 600.0
 # Final amount: 5400.0
+
+
+#14 check whether char is vowels or consonants
+# char = input("Enter character:")
+# if char in "aeiouAEIOU":
+#     print("Vowels")
+# else:
+#     print("Consonants")
+
+# output: vowels
