@@ -663,3 +663,19 @@
 
 # outut:
 # Leap year
+
+
+#27 calculate discount based on purchase amount
+# amount = 6000
+# if amount >= 5000:
+#     discount = amount * 0.10
+# else:
+#     discount = amount * 0.05
+
+# Final_amount = amount - discount
+# print("Discount:" ,discount)
+# print("Final amount:" ,Final_amount)
+
+# output:
+# Discount: 600.0
+# Final amount: 5400.0
