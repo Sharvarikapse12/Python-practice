@@ -679,3 +679,16 @@
 # output:
 # Discount: 600.0
 # Final amount: 5400.0
+
+
+#28 To chech character is uppercase or lowercase
+# char = "A"
+# if char.isupper():
+#     print("Character is uppercase")
+# elif char.islower():
+#     print("Character is lowercase")
+# else:
+#     print("Character is not an alphabet")
+
+# output:
+# Character is uppercase
