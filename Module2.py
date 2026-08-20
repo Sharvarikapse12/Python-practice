@@ -623,3 +623,15 @@
 
 # output:
 # Number divisible by 7
+
+
+#24 to check whether username and password is correct
+# username = "sharvari"
+# password = "sharvari@123"
+# if username == "sharvari" and password == "sharvari@123":
+#     print("Username and password are correct")
+# else:
+#     print("Invalid username and password")
+
+# output:
+# Username and password are correct
