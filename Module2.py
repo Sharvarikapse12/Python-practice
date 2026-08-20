@@ -612,3 +612,14 @@
 
 # putput:
 # Person eligible for license
+
+
+#23 check whether num divisible by 7
+# num = 28
+# if num % 7 == 0:
+#     print("Number divisible by 7")
+# else:
+#     print("Number not divisible by 7")
+
+# output:
+# Number divisible by 7
