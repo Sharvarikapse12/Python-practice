@@ -652,3 +652,14 @@
 
 # output:
 # B grade
+
+
+#26 to check year is leap year
+# year = 2024
+# if (year % 400 == 0) or (year % 4 == 0 and year % 100 != 0):
+#     print("Leap year")
+# else:
+#     print("Not leap year")
+
+# outut:
+# Leap year
