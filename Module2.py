@@ -692,3 +692,14 @@
 
 # output:
 # Character is uppercase
+
+
+#29 check num is two digit or not
+# num = 22
+# if num >= 10 and num <= 99:
+#     print("Number is two digit")
+# else:
+#     print("Not a two digit number")
+
+# output:
+# Number is two digit
