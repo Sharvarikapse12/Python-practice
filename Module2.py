@@ -703,3 +703,22 @@
 
 # output:
 # Number is two digit
+
+
+#30 Create Simple calculator
+# a = 30
+# b = 55
+# operator = "/"
+# if operator == "+":
+#     print(a + b)
+# elif operator == "-":
+#     print(a - b)
+# elif operator == "*":
+#     print(a * b)
+# elif operator == "/":
+#     print(a / b)
+# else:
+#     print("Inavalid operator")
+
+# output:
+# 0.5454545454545454
