@@ -601,3 +601,14 @@
 
 # output:
 # c is greater
+
+
+#22 To check person elible for license or not
+# age = 22
+# if age >= 18:
+#     print("Person eligible for license")
+# else:
+#     print("Not eligible for license")
+
+# putput:
+# Person eligible for license
