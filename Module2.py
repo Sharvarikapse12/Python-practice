@@ -635,3 +635,20 @@
 
 # output:
 # Username and password are correct
+
+
+#25 To print grade using marks
+# marks = 75
+# if marks >= 90 and marks < 100:
+#     print("A grade")
+# elif marks >= 70:
+#     print("B grade")
+# elif marks >= 60:
+#     print("C grade")
+# elif marks >= 45:
+#     print("D grade")
+# else:
+#     print("Fail")
+
+# output:
+# B grade
