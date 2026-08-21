@@ -62,3 +62,12 @@
 # 2
 # 4
 # 5
+
+
+#Pass statement
+# for i in range(1,4):
+#     pass
+# print("Loop completed")
+
+# output:
+# Loop completed
