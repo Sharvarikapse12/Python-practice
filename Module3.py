@@ -36,3 +36,16 @@
 # 3
 # 4
 # 5
+
+
+#break statement
+# for i in range(1 , 10):
+#     if i == 5:
+#         break
+#     print(i)
+
+# output:
+# 1
+# 2
+# 3
+# 4
