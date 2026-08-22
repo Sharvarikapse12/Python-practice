@@ -118,3 +118,20 @@
 # 3 11
 # 3 12
 # 3 13
+
+
+#Problem questions
+
+#1 print num 1 to 100
+# for i in range(1,101):
+#     print(i)
+
+# output:
+# 1
+# 2
+# 3
+# 4
+# .
+# .
+# .
+# 100
