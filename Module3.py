@@ -157,3 +157,14 @@
 # 5
 # 7
 # 9
+
+
+#3 Factorial of number
+# num = 5
+# fact = 1
+# for i in range(1,num+1):
+#     fact = fact * 1
+# print("Factorial:" , fact)
+
+# output:
+# Factorial: 1
