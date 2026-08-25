@@ -240,3 +240,16 @@
 
 # output:
 # 0 1 1 2 3 5 8 
+
+
+#9 print star pattern
+# n = 5
+# for i in range(1 , n + 1):
+#     print("*" * i)
+
+# output:
+# *
+# **
+# ***
+# ****
+# *****
