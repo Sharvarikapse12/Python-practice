@@ -355,3 +355,17 @@
 
 # output:
 # Amstrong number
+
+
+#6 print triangle star pattern
+# i = 1
+# while i <= 5:
+#     print("*" * i)
+#     i = i + 1
+
+# output:
+# *
+# **
+# ***
+# ****
+# *****
