@@ -291,7 +291,7 @@
 # 2
 # 1
 
-#Print table of 5
+#2 Print table of 5
 # num = 5
 # i = 1
 # while i <= 10:
@@ -309,3 +309,17 @@
 # 40
 # 45
 # 50
+
+
+#3 find sum of digit of numbers
+# num = 1234
+# sum = 0
+# while num > 0:
+#     digit = num % 10
+#     sum = sum + digit
+#     num = num // 10
+
+# print("Sum :" , sum)
+
+# output:
+# Sum : 10
