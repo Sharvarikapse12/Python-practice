@@ -268,3 +268,25 @@
 # 1 2 3 
 # 1 2 3 4 
 # 1 2 3 4 5 
+
+
+
+#Practice Question
+
+#1 print nymber from 10 to 1 using while loop
+# num = 10
+# while num >= 1:
+#     print(num)
+#     num = num - 1
+
+# output:
+# 10
+# 9
+# 8
+# 7
+# 6
+# 5
+# 4
+# 3
+# 2
+# 1
