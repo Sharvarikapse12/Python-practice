@@ -32,3 +32,17 @@
 
 # output:
 # Jython
+
+
+#String methods
+#1 upper()
+# 2 lower()
+# 3 title()
+# 4 strip()
+# 5 replace() 
+# 6 split()
+# 7 join()
+# 8 find()
+# 9 count()
+# 10 startswith()
+# 11 endswith()
