@@ -23,3 +23,12 @@
 # P
 # y
 # n
+
+
+#String Immutability
+# name = "Python"
+# name = "Jython"
+# print(name)
+
+# output:
+# Jython
