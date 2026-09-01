@@ -5,3 +5,21 @@
 # name = "Python"
 # message = 'Welcome'
 # paragraph = """ This is a multi-line string."""
+# print(name)
+# print(message)
+
+# output:
+# Python
+# Welcome
+
+
+#String Indexing
+# name = "Python"
+# print(name[0])
+# print(name[1])
+# print(name[-1])
+
+# output:
+# P
+# y
+# n
