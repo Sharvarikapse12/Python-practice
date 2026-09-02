@@ -59,3 +59,12 @@
 # python programming
 #  java programming 
 # 2
+
+
+#String formatting
+# name = "Rahul"
+# marks = 85
+# print(f"Student name is {name} and marks are {marks}")
+
+# output:
+# Student name is Rahul and marks are 85
