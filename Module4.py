@@ -46,3 +46,16 @@
 # 9 count()
 # 10 startswith()
 # 11 endswith()
+
+#Example of string method
+# text = " python programming "
+# print(text.upper())
+# print(text.strip())
+# print(text.replace("python" , "java"))
+# print(text.count("p"))
+
+# output:
+#  PYTHON PROGRAMMING 
+# python programming
+#  java programming 
+# 2
