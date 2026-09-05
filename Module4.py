@@ -125,6 +125,7 @@
 # Enter your name:sharvari
 # Length : 8
 
+
 #2 reverse a string without using slicing
 # text = "java"
 # reverse = text[::-1]
@@ -132,3 +133,23 @@
 
 # output:
 # avaj
+
+
+#3 Count vowels and consonents
+# text = "python programming"
+# vowels = "aeiou"
+# count_v = 0
+# count_c = 0
+
+# for ch in text:
+#     if ch in vowels:
+#         count_v = count_v + 1
+#     elif ch.isalpha():
+#         count_c = count_c + 1
+
+# print("Vowels :" , count_v)
+# print("Consonents :" , count_c)
+
+# output:
+# Vowels : 4
+# Consonents : 13
