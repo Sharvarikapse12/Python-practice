@@ -124,3 +124,11 @@
 # output:
 # Enter your name:sharvari
 # Length : 8
+
+#2 reverse a string without using slicing
+# text = "java"
+# reverse = text[::-1]
+# print(reverse)
+
+# output:
+# avaj
