@@ -153,3 +153,12 @@
 # output:
 # Vowels : 4
 # Consonents : 13
+
+
+#4 count vowels in a sentence
+# sentence = "python is object oriented programming language"
+# words = sentence.split()
+# print("Number of words :" , len(words))
+
+# output:
+# Number of words : 6
