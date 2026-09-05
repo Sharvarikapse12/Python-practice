@@ -68,3 +68,13 @@
 
 # output:
 # Student name is Rahul and marks are 85
+
+
+#Escape character
+# print("Hello\nPython")
+# print("Name\tMarks")
+
+# output:
+# Hello
+# Python
+# Name    Marks
