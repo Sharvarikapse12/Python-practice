@@ -113,3 +113,14 @@
 
 # output:
 # Vowels: 4
+
+
+#Practice Questions
+
+#1 take a name from user and print its length
+# name = input("Enter your name:")
+# print("Length :" , len(name))
+
+# output:
+# Enter your name:sharvari
+# Length : 8
