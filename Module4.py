@@ -98,3 +98,18 @@
 
 # output:
 # Palindrome
+
+
+#Program: Count vowels
+# text = "python programming"
+# vowels = "aeiou"
+# count = 0
+
+# for ch in text:
+#     if ch in vowels:
+#         count = count + 1
+
+# print("Vowels:" , count)
+
+# output:
+# Vowels: 4
